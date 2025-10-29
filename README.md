@@ -8,7 +8,7 @@ A full-stack mock e-commerce shopping cart application built with the MERN stack
 
 -   **Frontend:** React, Axios, Context API for state management
 -   **Backend:** Node.js, Express.js
--   **Database:** In-memory storage (or MongoDB/SQLite if you did the bonus)
+-   **Database:** In-memory storage
 
 ---
 
@@ -53,4 +53,10 @@ To run this project locally, follow these steps:
 ---
 
 ## Screenshots
+<img width="1919" height="779" alt="image" src="https://github.com/user-attachments/assets/180b7e06-a283-488d-98b7-aea9aa301e6b" />
+<img width="1919" height="804" alt="image" src="https://github.com/user-attachments/assets/0a431f3f-265e-4bac-a8a4-d8275bc52cf3" />
+<img width="1919" height="894" alt="image" src="https://github.com/user-attachments/assets/0e7f93de-02aa-4fd5-a80d-efcd0e78b0ff" />
+
+
+
 
