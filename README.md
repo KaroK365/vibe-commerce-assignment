@@ -3,7 +3,9 @@
 A full-stack mock e-commerce shopping cart application built with the MERN stack (React, Node.js, Express). Users can view products, add/remove items from their cart, and complete a mock checkout process.
 
 ---
-
+## Video Demo
+https://www.loom.com/share/df9a05160e5245e9ae28e7c24a48d139
+---
 ## Tech Stack
 
 -   **Frontend:** React, Axios, Context API for state management
